@@ -51,3 +51,4 @@ edit for #1072 item-5-after upgrade to 2.0.0.2
 sdfsdf
 asdasd
 asdsdf
+retreg
