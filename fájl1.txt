@@ -62,3 +62,4 @@ edited for #1141
 webhook test for #1433
 webhook test #1160
 edited
+edit for CB-1372
